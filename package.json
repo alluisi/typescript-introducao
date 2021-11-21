@@ -1,0 +1,27 @@
+{
+  "name": "typescript-introducao",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alluisi/typescript-introducao.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alluisi/typescript-introducao/issues"
+  },
+  "homepage": "https://github.com/alluisi/typescript-introducao#readme",
+  "devDependencies": {
+    "@types/jquery": "^3.5.8",
+    "typescript": "^4.5.2"
+  },
+  "dependencies": {
+    "jquery": "^3.6.0"
+  }
+}
